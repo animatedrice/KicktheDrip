@@ -1,2 +1,48 @@
-# StardewMods
-Several mods created for Stardew Valley
+
+# Stardew Valley Mods
+Several mods created for Stardew Valley 1.6.
+
+## Kick the Drip
+![Content](https://github.com/animatedrice/StardewMods/blob/8f247317ba87a371fe8b96ef2f05039653b99122/%5BCP%5D%20Kick%20the%20Drip/Added_items.png)
+
+Have you ever wondered where PJ got his jackets? Now with the power of IKEA and AI you too can walk around in his clothes!
+This mods adds 3 different shirts, glasses, hair and those sweet yellow crocs. 
+
+> [!TIP]
+> * Shirts are at the back of the options so click left if you want to see them immediately)
+> * When you have the Sweet Potat mod installed you are able to tailor the shirts with a Sweet Potato Pie!
+
+### Configuration
+Config setting options:
+* ```StartingCrocs```: true/false (default true). If true it makes the shoes of your base character yellow and less high. Any shoes you equip in the future will change the colour.
+* ```Hair```: true/false (default true). If true it changes Hair 1 to this mod's hair option
+* ```Glasses```: true/false (default true). If true it changes Accessoire 2 to this mod's glasses.
+
+### Requirements
+* SMAPI (4.0 or up)
+* Content Patcher
+
+[Download this mod](https://github.com/animatedrice/StardewMods/releases/tag/v1.0.0)
+
+![Outfits](https://github.com/animatedrice/StardewMods/blob/KicktheDrip/%5BCP%5D%20Kick%20the%20Drip/Outfits.png)
+
+
+## Sweet Potato Crop
+![Content](https://github.com/animatedrice/StardewMods/blob/KicktheDrip/%5BCP%5D%20Sweet%20Potat/Added%20items.png?raw=true)
+
+Brings the delicious Sweet Potat to Stardew Valley! 
+> Plant in Spring for a lovely purple veggie. Takes 8 days to mature.
+
+Adds new items:
+* Sweet Potato Seeds (Available at Pierre's in spring!)
+* Sweet Potato Crop
+* Sweet Potato Pie
+
+> [!TIP]
+> * When you have the Kick the Drip mod installed you are able to tailor KickthePJ shirts with a Sweet Potato Pie!
+
+### Requirements
+* SMAPI (4.0 or up)
+* Content Patcher
+
+[Download this mod](https://github.com/animatedrice/StardewMods/releases/tag/1.0.0)
