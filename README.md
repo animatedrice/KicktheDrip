@@ -24,11 +24,13 @@ Config setting options:
 
 [Download this mod](https://github.com/animatedrice/StardewMods/releases/tag/v1.0.0)
 
-![Outfits](https://github.com/animatedrice/StardewMods/blob/KicktheDrip/%5BCP%5D%20Kick%20the%20Drip/Outfits.png)
+![Outfits](https://github.com/animatedrice/StardewMods/blob/154705456a3658e6bb15882598731ea7191ecd83/%5BCP%5D%20Kick%20the%20Drip/Outfits.png)
+
+
 
 
 ## Sweet Potato Crop
-![Content](https://github.com/animatedrice/StardewMods/blob/KicktheDrip/%5BCP%5D%20Sweet%20Potat/Added%20items.png?raw=true)
+![Content](https://github.com/animatedrice/StardewMods/blob/154705456a3658e6bb15882598731ea7191ecd83/%5BCP%5D%20Sweet%20Potat/Added%20items.png)
 
 Brings the delicious Sweet Potat to Stardew Valley! 
 > Plant in Spring for a lovely purple veggie. Takes 8 days to mature.
