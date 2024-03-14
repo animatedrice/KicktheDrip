@@ -11,7 +11,7 @@ All mods have the same requirements:
 
 ![Walk cycle](https://github.com/animatedrice/StardewMods/blob/4beb0166eb90fe0b6bc6d7dd2a7483f2dd2f407c/%5BCP%5D%20Highland%20Cow/Walk-cycle.gif)
 
-Adds Scottish Highlanders to Stardew Valley! 
+Brings the fluffiest Scottish Highlanders to Stardew Valley! Your happiness will go up 400% when petting these cows <3 (scientifically proven)
 
 When buying a cow at Marnie's there is a chance you will get a Scottish Highlander instead of a White or Brown cow! (Similar to a blue chicken)
 
