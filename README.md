@@ -9,7 +9,7 @@ All mods have the same requirements:
 
 ## Scottish Highlander
 
-![Walk cycle](https://github.com/animatedrice/StardewMods/blob/4e15cf8238dc7ad63d34d23056d3503efcafa963/%5BCP%5D%20Highland%20Cow/Walk-cycle-cow.gif)
+![Walk cycle](https://github.com/animatedrice/StardewMods/blob/4beb0166eb90fe0b6bc6d7dd2a7483f2dd2f407c/%5BCP%5D%20Highland%20Cow/Walk-cycle.gif)
 
 Adds Scottish Highlanders to Stardew Valley! 
 
