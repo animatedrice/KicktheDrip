@@ -2,6 +2,11 @@
 # Stardew Valley Mods
 Several mods created for Stardew Valley 1.6.
 
+### Requirements
+All mods have the same requirements:
+* SMAPI (4.0 or up)
+* Content Patcher
+
 ## Scottish Highlander
 
 ![Walk cycle](https://github.com/animatedrice/StardewMods/blob/4e15cf8238dc7ad63d34d23056d3503efcafa963/%5BCP%5D%20Highland%20Cow/Walk-cycle-cow.gif)
@@ -33,10 +38,6 @@ Config setting options:
 * ```StartingCrocs```: true/false (default true). If true it makes the shoes of your base character yellow and less high. Any shoes you equip in the future will change the colour.
 * ```Hair```: true/false (default true). If true it changes Hair 1 to this mod's hair option
 * ```Glasses```: true/false (default true). If true it changes Accessoire 2 to this mod's glasses.
-
-### Requirements
-* SMAPI (4.0 or up)
-* Content Patcher
 
 [Download this mod](https://github.com/animatedrice/StardewMods/releases/tag/v1.0.0)
 
