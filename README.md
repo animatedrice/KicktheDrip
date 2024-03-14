@@ -59,8 +59,4 @@ Adds new items:
 > [!TIP]
 > * When you have the Kick the Drip mod installed you are able to tailor KickthePJ shirts with a Sweet Potato Pie!
 
-### Requirements
-* SMAPI (4.0 or up)
-* Content Patcher
-
 [Download this mod](https://github.com/animatedrice/StardewMods/releases/tag/1.0.0)
