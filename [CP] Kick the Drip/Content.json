@@ -1,0 +1,120 @@
+{
+    "Format": "2.0.0",
+    "ConfigSchema": {
+        "StartingCrocs": {
+            "AllowValues": "true, false",
+            "Default": "true"
+        },
+        "Hair": {
+            "AllowValues": "true, false",
+            "Default": "true"
+        },
+        "Glasses": {
+            "AllowValues": "true, false",
+            "Default": "true"
+        }
+    },
+    "Changes": [
+        {
+            "Action": "Load",
+            "Target": "{{ModId}}/orange, {{ModId}}/coloured, {{ModId}}/classic",
+            "FromFile": "assets/{{TargetWithoutPath}}.png"
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Shirts",
+            "Entries": {
+                "{{ModId}}_orange": {
+                    "Name": "Orange shirt",
+                    "DisplayName": "Orange shirt",
+                    "Description": "A PJ classic",
+                    "Price": 50,
+                    "Texture": "{{ModId}}/orange",
+                    "SpriteIndex": 0,
+                    "HasSleeves": true,
+                    "CanChooseDuringCharacterCustomization": true
+                },
+                "{{ModId}}_colourful": {
+                    "Name": "Colourful shirt",
+                    "DisplayName": "Colourful shirt",
+                    "Description": "A PJ classic",
+                    "Price": 50,
+                    "Texture": "{{ModId}}/coloured",
+                    "SpriteIndex": 0,
+                    "HasSleeves": true,
+                    "CanChooseDuringCharacterCustomization": true
+                },
+                "{{ModId}}_funky": {
+                    "Name": "Classic shirt",
+                    "DisplayName": "Classic shirt",
+                    "Description": "A PJ classic",
+                    "Price": 50,
+                    "Texture": "{{ModId}}/classic",
+                    "SpriteIndex": 0,
+                    "HasSleeves": true,
+                    "CanChooseDuringCharacterCustomization": true
+                }
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Farmer/accessories",
+            "FromFile": "assets/accessories.png",
+            "ToArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 32
+            },
+            "When": {
+                "Glasses": true
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Farmer/farmer_base, Characters/Farmer/farmer_girl_base,",
+            "FromFile": "assets/{{TargetWithoutPath}}.png",
+            "When": {
+                "StartingCrocs": true
+            },
+            "Update": "OnLocationChange"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Tilesheets/Springobjects",
+            "FromFile": "assets/croc.png",
+            "ToArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 16
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "{{ModId}}\\croc, {{ModId}}\\shoecolours",
+            "FromFile": "assets/{{TargetWithoutPath}}.png"
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Boots",
+            "Entries": {
+                "504": "Yellow Crocs/Croc it up!/50/1/0/0/Yellow Crocs/{{ModId}}\\shoecolours/0/{{ModId}}\\croc"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Farmer/Hairstyles",
+            "FromFile": "assets/{{TargetWithoutPath}}.png",
+            "ToArea": {
+                "X": 0,
+                "Y": 0,
+                "Width": 16,
+                "Height": 96
+            },
+            "When": {
+                "Hair": true
+            }
+        }
+    ]
+}

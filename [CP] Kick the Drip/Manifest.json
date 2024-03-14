@@ -1,0 +1,11 @@
+{
+    "Name": "Kick the Drip",
+    "Author": "AnimatedRice",
+    "Version": "1.0.0",
+    "Description": "Adds some PJ inspired shirts.",
+    "UniqueID": "AnimatedRice.kicktheDrip",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+    }
+  }
