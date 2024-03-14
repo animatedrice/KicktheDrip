@@ -2,7 +2,23 @@
 # Stardew Valley Mods
 Several mods created for Stardew Valley 1.6.
 
+## Scottish Highlander
+
+![Walk cycle](https://github.com/animatedrice/StardewMods/blob/4e15cf8238dc7ad63d34d23056d3503efcafa963/%5BCP%5D%20Highland%20Cow/Walk-cycle-cow.gif)
+
+Adds Scottish Highlanders to Stardew Valley! 
+
+When buying a cow at Marnie's there is a chance you will get a Scottish Highlander instead of a White or Brown cow! (Similar to a blue chicken)
+
+> [!NOTE]
+> This mod should be fully compatible with other skin mods.
+
+
+[Download this mod](https://github.com/animatedrice/StardewMods/releases/tag/s1.0.0)
+
+
 ## Kick the Drip
+
 ![Content](https://github.com/animatedrice/StardewMods/blob/8f247317ba87a371fe8b96ef2f05039653b99122/%5BCP%5D%20Kick%20the%20Drip/Added_items.png)
 
 Have you ever wondered where PJ got his jackets? Now with the power of IKEA and AI you too can walk around in his clothes!
@@ -27,9 +43,8 @@ Config setting options:
 ![Outfits](https://github.com/animatedrice/StardewMods/blob/154705456a3658e6bb15882598731ea7191ecd83/%5BCP%5D%20Kick%20the%20Drip/Outfits.png)
 
 
-
-
 ## Sweet Potato Crop
+
 ![Content](https://github.com/animatedrice/StardewMods/blob/154705456a3658e6bb15882598731ea7191ecd83/%5BCP%5D%20Sweet%20Potat/Added%20items.png)
 
 Brings the delicious Sweet Potat to Stardew Valley! 
