@@ -2,6 +2,8 @@
 # Stardew Valley Mods
 Several mods created for Stardew Valley 1.6.
 
+Any suggestions or feedback are always welcome! (hmu on Discord)
+
 ### Requirements
 All mods have the same requirements:
 * SMAPI (4.0 or up)
