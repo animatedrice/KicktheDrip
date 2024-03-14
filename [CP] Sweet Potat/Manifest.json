@@ -1,0 +1,11 @@
+{
+    "Name": "Sweet Potat",
+    "Author": "AnimatedRice",
+    "Version": "1.0.0",
+    "Description": "Adds sweet potats.",
+    "UniqueID": "AnimatedRice.SweetPotat",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+    }
+  }
