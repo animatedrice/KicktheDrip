@@ -9,6 +9,23 @@ All mods have the same requirements:
 * SMAPI (4.0 or up)
 * Content Patcher
 
+## Fish ON
+![FishOn](https://github.com/animatedrice/StardewMods/assets/15009951/0ce567e2-6d2d-4f15-af82-855ee670fd94)
+
+Adds a Fish ON sound and text to fishing.
+
+### Configuration
+* ```SoundON```: true/false (default true). If true it replaces the normal catching sound with "Fish ON". If false it will only show "Fish ON!" instead of the "Hit!" text.
+
+[Download this mod](https://github.com/animatedrice/StardewMods/releases/tag/1.0.0-fish)
+
+## Clunt
+![Clunt](https://github.com/animatedrice/StardewMods/assets/15009951/7944227d-0177-4aaf-9931-d82c2df83623)
+
+Changes [redacted] name to Clunt in the game! 
+
+[Download this mod](https://github.com/animatedrice/StardewMods/releases/tag/1.0.0-fish)
+
 ## Scottish Highlander
 
 ![Walk cycle](https://github.com/animatedrice/StardewMods/blob/4beb0166eb90fe0b6bc6d7dd2a7483f2dd2f407c/%5BCP%5D%20Highland%20Cow/Walk-cycle.gif)
