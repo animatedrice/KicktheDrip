@@ -1,81 +1,15 @@
 
 # Stardew Valley Mods
-Several mods created for Stardew Valley 1.6.
+Several mods created for Stardew Valley 1.6. I mainly make these mods because it's fun to do and to practise some pixelart. I will probably redo a lot along the way. Any suggestions or feedback are always welcome! (hmu on Discord)
 
-Any suggestions or feedback are always welcome! (hmu on Discord)
-
-### Requirements
+## Requirements
 All mods have the same requirements:
 * SMAPI (4.0 or up)
 * Content Patcher
 
-## Fish ON
-![FishOn](https://github.com/animatedrice/StardewMods/assets/15009951/0ce567e2-6d2d-4f15-af82-855ee670fd94)
+## Download the mods
 
-Adds a Fish ON sound and text to fishing.
+![image](https://github.com/animatedrice/StardewMods/assets/15009951/5c456474-941b-4f1c-ac11-96d0bf4e2677)
 
-### Configuration
-* ```SoundON```: true/false (default true). If true it replaces the normal catching sound with "Fish ON". If false it will only show "Fish ON!" instead of the "Hit!" text.
-
-[Download this mod](https://github.com/animatedrice/StardewMods/releases/tag/1.0.0-fish)
-
-## Clunt
-![Clunt](https://github.com/animatedrice/StardewMods/assets/15009951/7944227d-0177-4aaf-9931-d82c2df83623)
-
-Changes [redacted] name to Clunt in the game! 
-
-[Download this mod](https://github.com/animatedrice/StardewMods/releases/tag/1.0.0-fish)
-
-## Scottish Highlander
-
-![Walk cycle](https://github.com/animatedrice/StardewMods/blob/4beb0166eb90fe0b6bc6d7dd2a7483f2dd2f407c/%5BCP%5D%20Highland%20Cow/Walk-cycle.gif)
-
-Brings the fluffiest Scottish Highlanders to Stardew Valley! Your happiness will go up 400% when petting these cows <3 (scientifically proven)
-
-When buying a cow at Marnie's there is a chance you will get a Scottish Highlander instead of a White or Brown cow! (Similar to a blue chicken)
-
-> [!NOTE]
-> This mod should be fully compatible with other skin mods.
-
-
-[Download this mod](https://github.com/animatedrice/StardewMods/releases/tag/s1.0.0)
-
-
-## Kick the Drip
-
-![Content](https://github.com/animatedrice/StardewMods/blob/f70a972f3df8ad723254689030b2397e9e370023/%5BCP%5D%20Kick%20the%20Drip/Added%20items.png)
-
-Have you ever wondered where PJ got his jackets? Now with the power of IKEA and AI you too can walk around in his clothes!
-This mods adds 3 different shirts, glasses, hair and those sweet yellow crocs. 
-
-> [!TIP]
-> * Shirts are at the back of the options so click left if you want to see them immediately)
-> * When you have the Sweet Potat mod installed you are able to tailor the shirts with a Sweet Potato Pie!
-
-### Configuration
-Config setting options:
-* ```StartingCrocs```: true/false (default true). If true it makes the shoes of your base character yellow and less high. Any shoes you equip in the future will change the colour.
-* ```Hair```: true/false (default true). If true it changes Hair 1 to this mod's hair option
-* ```Glasses```: true/false (default true). If true it changes Accessoire 2 to this mod's glasses.
-
-[Download this mod](https://github.com/animatedrice/StardewMods/releases/tag/v1.0.0)
-
-![Outfits](https://github.com/animatedrice/StardewMods/blob/154705456a3658e6bb15882598731ea7191ecd83/%5BCP%5D%20Kick%20the%20Drip/Outfits.png)
-
-
-## Sweet Potato Crop
-
-![Content](https://github.com/animatedrice/StardewMods/blob/154705456a3658e6bb15882598731ea7191ecd83/%5BCP%5D%20Sweet%20Potat/Added%20items.png)
-
-Brings the delicious Sweet Potat to Stardew Valley! 
-> Plant in Spring for a lovely purple veggie. Takes 8 days to mature.
-
-Adds new items:
-* Sweet Potato Seeds (Available at Pierre's in spring!)
-* Sweet Potato Crop
-* Sweet Potato Pie
-
-> [!TIP]
-> * When you have the Kick the Drip mod installed you are able to tailor KickthePJ shirts with a Sweet Potato Pie!
-
-[Download this mod](https://github.com/animatedrice/StardewMods/releases/tag/1.0.0)
+Go to the [releases tab](https://github.com/animatedrice/StardewMods/releases) to download the mods that you want to use. 
+Make sure to download the ZIP file and not the source code!
