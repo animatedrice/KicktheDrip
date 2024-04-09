@@ -1,15 +1,15 @@
+# Kick the Drip
+![Outfits](https://github.com/animatedrice/StardewMods/blob/f70a972f3df8ad723254689030b2397e9e370023/%5BCP%5D%20Kick%20the%20Drip/Added%20items.png)
 
-# Stardew Valley Mods
-Several mods created for Stardew Valley 1.6. I mainly make these mods because it's fun to do and to practise some pixelart. I will probably redo a lot along the way. Any suggestions or feedback are always welcome! (hmu on Discord)
+Have you ever wondered where PJ got his jackets? Now with the power of IKEA and AI you too can walk around in his clothes!
+This mods adds 3 different shirts, glasses, hair and those sweet yellow crocs. 
 
-## Requirements
-All mods have the same requirements:
-* SMAPI (4.0 or up)
-* Content Patcher
+> [!TIP]
+> * Shirts are at the back of the options so click left if you want to see them immediately
+> * When you have the Sweet Potat mod installed you are able to tailor the shirts with a Sweet Potato Pie!
 
-## Download the mods
-
-![image](https://github.com/animatedrice/StardewMods/assets/15009951/5c456474-941b-4f1c-ac11-96d0bf4e2677)
-
-Go to the [releases tab](https://github.com/animatedrice/StardewMods/releases) to download the mods that you want to use. 
-Make sure to download the ZIP file and not the source code!
+### Configuration
+Config setting options:
+* ```StartingCrocs```: true/false (default true). If true it makes the shoes of your base character yellow and less high. Any shoes you equip in the future will change the colour.
+* ```Hair```: true/false (default true). If true it changes Hair 1 to this mod's hair option
+* ```Glasses```: true/false (default true). If true it changes Accessoire 2 to this mod's glasses.
