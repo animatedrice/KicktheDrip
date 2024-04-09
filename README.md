@@ -13,3 +13,8 @@ Config setting options:
 * ```StartingCrocs```: true/false (default true). If true it makes the shoes of your base character yellow and less high. Any shoes you equip in the future will change the colour.
 * ```Hair```: true/false (default true). If true it changes Hair 1 to this mod's hair option
 * ```Glasses```: true/false (default true). If true it changes Accessoire 2 to this mod's glasses.
+
+### Download
+
+[Download
+](https://github.com/animatedrice/KicktheDrip/releases)
