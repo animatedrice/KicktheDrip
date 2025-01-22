@@ -1,7 +1,7 @@
 # Kick the Drip
 ![Outfits](https://github.com/animatedrice/StardewMods/blob/f70a972f3df8ad723254689030b2397e9e370023/%5BCP%5D%20Kick%20the%20Drip/Added%20items.png)
 
-Have you ever wondered where PJ got his jackets? Now with the power of IKEA and AI you too can walk around in his clothes!
+Have you ever wondered where PJ got his jackets? Now with the power of IKEA you too can walk around in his clothes!
 This mods adds 3 different shirts, glasses, hair and those sweet yellow crocs. 
 
 > [!TIP]
