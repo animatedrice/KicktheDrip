@@ -6,7 +6,6 @@ This mods adds 3 different shirts, glasses, hair and those sweet yellow crocs.
 
 > [!TIP]
 > * Shirts are at the back of the options so click left if you want to see them immediately
-> * When you have the Sweet Potat mod installed you are able to tailor the shirts with a Sweet Potato Pie!
 
 ### Configuration
 Config setting options:
